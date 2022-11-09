@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register </h1>
     <h2> TRY TO REGISTER FASTER </h2> 
+    <h3> TRY TO REGISTER SLOWER </h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
        
